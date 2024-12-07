@@ -6,3 +6,6 @@ new code
 by b person
 by b
 changed
+
+cd merge
+test
