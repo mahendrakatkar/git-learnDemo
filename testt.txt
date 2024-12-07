@@ -3,6 +3,6 @@ test commmit
 confilct testing
 feature conflict
 new code
-by b person
+
 merge
 changed
