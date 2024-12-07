@@ -4,5 +4,5 @@ confilct testing
 feature conflict
 new code
 by b person
-by b
+merge
 changed
