@@ -5,3 +5,5 @@ feature conflict
 new code
 by b person
 
+by b
+changed
