@@ -11,4 +11,4 @@ new code
 merge
 changed
 c TEST
-
+new change
