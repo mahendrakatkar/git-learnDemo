@@ -1,5 +1,9 @@
 wnd comfodf
 test commmit
+
+test comment
+dfdf
+
 confilct testing
 feature conflict
 new code
@@ -7,3 +11,4 @@ new code
 merge
 changed
 c TEST
+
